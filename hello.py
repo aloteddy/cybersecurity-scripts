@@ -1,1 +1,1 @@
-print("Cybersecurity Journey Started!")
+print("Hello from my Cybersecurity Workstation!")
