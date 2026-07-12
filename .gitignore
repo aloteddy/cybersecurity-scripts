@@ -1,0 +1,28 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+*.key
+*.pem
+
+# Virtual environments
+venv/
+.venv/
+
+# Virtual machines
+*.vmdk
+*.vmx
+*.vdi
+
+# Packet captures
+*.pcap
+*.pcapng
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
